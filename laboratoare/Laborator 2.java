@@ -1,5 +1,5 @@
 1. Care sunt valorile variabilelor dupa executarea fiecarei linii?
-->   1) int j=1; int k=0;		->  1, 0
+->       1) int j=1; int k=0;	    ->  1, 0
 	 2) boolean b=true;         ->  true
 	 3) double d=3.141;         ->  3.141
 	 4) k=j++;                  ->  1
