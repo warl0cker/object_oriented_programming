@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="cursuri">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cursuri/POOC12_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cursuri/Curs5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cursuri/POOC8_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cursuri/POOC10_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cursuri/POOC6_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cursuri/POOC7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cursuri/CursPOO13_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cursuri/POOC9_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cursuri/POOC11_1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
